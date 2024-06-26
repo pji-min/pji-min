@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>안녕하세요 iOS를 배우고 있는 박지민입니다</h1>
+<h1>안녕하세요 박지민입니다</h1>
 <hr>
