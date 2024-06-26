@@ -14,5 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>안녕하세요 박지민입니다</h1>
-<hr>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .h1{
+    font-family: 'GyeonggiBatang';
+    text-align: center;
+    font-weight: lighter;
+    font-size: x-large;
+}
+@font-face {
+    font-family: 'GyeonggiBatang';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+    </style>
+</head>
+<body>
+    <h1 class="h1">✿°。 안녕하세요 박지민입니다 ✿°</h1>
+    <h1 class="h1">✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧</h1>
+</body>
+</html>
