@@ -1,15 +1,6 @@
 ### 👋 안녕하세요! 백엔드 개발자를 꿈꾸는 박지민입니다!
 ---
 
-## 🛠️ Tech Stack
-
-- **Language:** Java, Kotlin, JavaScript
-- **Backend:** Spring Boot, JPA, QueryDSL
-- **Database:** MySQL, Redis
-- **Tools:** Git, GitHub, Figma, IntelliJ
-
----
-
 ## 📫 Contact
 
 - Email: pji-min@naver.com
