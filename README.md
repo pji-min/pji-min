@@ -1,12 +1,5 @@
 ### 👋 안녕하세요! 백엔드 개발자를 꿈꾸는 박지민입니다!
 ---
-
-## 📫 Contact
-
-- Email: pji-min@naver.com
-- GitHub: [@pji-min](https://github.com/pji-min)
-
----
 <a href="https://github.com/devxb/gitanimals" class="github-link">
   <img
     src="https://render.gitanimals.org/lines/pji-min"
